@@ -26,4 +26,4 @@ rapidement des factures et de les exporter au format **PDF**.
 
 ## Auteur
 
-Projet réalisé par *votre nom*.
+Projet réalisé par BELAIDI Abdelghani.
